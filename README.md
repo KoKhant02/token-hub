@@ -3,7 +3,7 @@
 **TokenHub** is a full-stack Ethereum wallet application built with **Go** (backend) and **React** (frontend), enabling users to **deploy**, **mint**, **burn**, and **check balances** for **ERC20**, **ERC721**, and **ERC1155** tokens.
 All operations are available via RESTful APIs and a user-friendly interface.
 
-🚀 **Live Demo**: [token-hub-pi.vercel.app](https://token-hub-pi.vercel.app)
+🚀 **Live Demo**: [token-hub-pi.vercel.app](https://token-hub-xi.vercel.app)
 
 ---
 
